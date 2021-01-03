@@ -9,8 +9,6 @@
     Till sqrt(n)
 The remaining list only contains prime numbers.
 """
-
-
 import math
 def count_primes(num):
     lis = []
