@@ -24,5 +24,6 @@ def count_primes(num):
         i+=1
     return lis
 
-lis=count_primes(100)
+inp = int(input("ENTER THE NUMBER: "))
+lis=count_primes(inp)
 print(lis)
